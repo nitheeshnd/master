@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "appcenter": "4.0.2",
+    "appcenter-analytics": "4.0.2",
+    "appcenter-crashes": "4.0.2",
     "i18n-js": "^3.8.0",
     "lodash.memoize": "^4.1.2",
     "react": "16.13.1",

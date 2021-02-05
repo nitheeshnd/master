@@ -72,6 +72,9 @@ const App = () => {
     setAge(age + 1)
   }, [age])
 
+
+  //tetsing
+
   const updateSalary = useCallback(() => {
     setSalary(salary + 1000)
   }, [salary])
