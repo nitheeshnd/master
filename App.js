@@ -73,6 +73,8 @@ const App = () => {
   }, [age])
 
 
+
+
   const updateSalary = useCallback(() => {
     setSalary(salary + 1000)
   }, [salary])
